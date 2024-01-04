@@ -1,4 +1,3 @@
-# Master Thesis
 ## Generating synthetic mixed-type longitudinal electronic health records for AugMix in Clinical decision support applications using MIMIC 3 
 
 ## Pytorch code
